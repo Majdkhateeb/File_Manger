@@ -1,0 +1,26 @@
+[
+    {
+        "firstname": "hamza",
+        "lastname": "hamza",
+        "email": "hamza@hamza",
+        "password": "$2y$10$mKbhBGv.B0pZsUEmZ4zL5OMml64qclAqUjmwZZXw5M3Mu0\/McAy9W"
+    },
+    {
+        "firstname": "majd",
+        "lastname": "majd",
+        "email": "majd@majd",
+        "password": "$2y$10$7yzo4J8HGCSU0sP.PmbTkuySWDQqQ5ajLnN1QkJq9Fiv5Nv7P\/gyS"
+    },
+    {
+        "firstname": "hamdan",
+        "lastname": "hamdan",
+        "email": "hamdan@qqq.com",
+        "password": "$2y$10$Cig0\/I3YWQuyUaZk3uWFAeMtD916UFi.y2L.nkNDQN7DjoenB4Aey"
+    },
+    {
+        "firstname": "ak",
+        "lastname": "ak",
+        "email": "ak@ak",
+        "password": "$2y$10$xw.Oh3\/FDKMM1ivHUd0mxuQZmF1VU2dCALoE2eQl.eAfLeoVtDU66"
+    }
+]

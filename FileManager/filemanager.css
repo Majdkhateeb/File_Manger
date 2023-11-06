@@ -1,0 +1,108 @@
+header {
+    background-color: #4d4d4f;
+    color: #f2f2f3;
+    padding-left: 150px;
+    height: 14%;
+    display: flex;
+}
+
+.ap {
+    color: #c9c9c9;
+    padding-left: 500px;
+    padding-top: 18px;
+    text-decoration: none;
+}
+
+nav {
+    color: #2b2b2b;
+    padding-left: 150px;
+    display: flex;
+}
+
+.button1 {
+    top: -4%;
+    position: relative;
+    left: 253%;
+    margin: 13px;
+}
+
+.button1a {
+    top: -4%;
+    position: relative;
+    left: 226%;
+    margin: 13px;
+}
+
+.button2 {
+    border-style: none;
+    background-color: #0d6efd;
+    color: white;
+    margin-bottom: 4px;
+    border-radius: 5px;
+}
+
+.button3 {
+    border-style: none;
+    position: relative;
+    bottom: 10%;
+    left: 330%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+
+}
+
+
+.body {
+    margin: auto;
+    width: 100%;
+    background-color: #eeeeee;
+    height: 100%;
+    padding-left: 150px;
+    padding-top: 40px;
+}
+
+
+
+td {
+    padding: 30px;
+    text-align: left;
+}
+
+.tablecustom {
+    width: 60%;
+    position: relative;
+}
+
+table {
+    background-color: white;
+
+}
+
+th {
+    border: 1px solid;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+td:first-child {
+    color: #53c4fc;
+}
+
+i {
+    display: inline;
+}
+
+.navtitle {
+    position: relative;
+    top: 26%;
+}
+
+.title {
+    position: relative;
+    top: 9px;
+}
